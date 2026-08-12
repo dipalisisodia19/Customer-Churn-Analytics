@@ -2,6 +2,10 @@
 
 ## 📌 Project Overview
 
+## 📊 Dashboard Preview
+
+![Customer Churn Dashboard](customer-churn-dashboard.png)
+
 This project analyzes customer churn patterns and identifies customers who are at higher risk of leaving a service.
 
 The project uses Python for data analysis and machine learning, and Power BI for interactive visualization and dashboard creation.
